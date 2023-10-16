@@ -1,0 +1,2 @@
+16-10-2023,phone purchase,15000.0
+17-10-2023,loan payment,7000.0
